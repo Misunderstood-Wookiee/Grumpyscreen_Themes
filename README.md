@@ -6,7 +6,7 @@ This repository contains themes for [Grumpyscreen](https://github.com/PONOdata/g
 
 | Firmware | Supported printer |
 | --- | --- |
-| COSMOS | Elegoo Centauri Carbon 2 |
+| COSMOS | Elegoo Centauri Carbon 2 & Centauri Carbon |
 
 ## Themes
 
